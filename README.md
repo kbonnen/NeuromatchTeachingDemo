@@ -1,6 +1,6 @@
 # NeuromatchTeachingDemo Instructions
  
-As part of your application, we would like you to make a **4 minute video** that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others.  We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can see a sample teaching demo for a another topic here [https://drive.google.com/file/d/1BsO8Itwfs1J1l7vHcOtjaljrX9hUjqIj/view](https://drive.google.com/file/d/1BsO8Itwfs1J1l7vHcOtjaljrX9hUjqIj/view).
+As part of your application, we would like you to make a **4 minute video** that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others.  We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can see a sample teaching demo for a another topic [here](https://drive.google.com/file/d/1BsO8Itwfs1J1l7vHcOtjaljrX9hUjqIj/view).
  
 During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. Of course, in the Teaching Demo recording there will be no live students.  But we’d like you to teach as if there were a live audience (though you do not need to interact with this fake audience). 
 
