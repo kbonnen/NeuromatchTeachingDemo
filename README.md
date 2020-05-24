@@ -33,10 +33,6 @@ You can access the jupyter notebook containing the tutorial here: [https://githu
 
 You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook.  You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kbonnen/NeuromatchTeachingDemo/blob/master/ridge-regression-tutorial.ipynb)  
 
-On the screen that pops up, paste in the teaching demo git repository url: https://github.com/kbonnen/NeuromatchTeachingDemo
-
-Now just choose the notebook you would like to send to co-lab. And that’s it!  You’ve loaded the notebook into colab.
-
 ## Lesson Plan Example 
 You can structure your four minute video any way you like. Here is a sample minute by minute breakdown in case it is useful. 
 * < 1 min: Introduce yourself. Give a few sentences about who you are! 
