@@ -31,7 +31,7 @@ This particular group of neurons have been classified as NOT stimulus-selective,
 
 You can access the jupyter notebook containing the tutorial here: [https://github.com/kbonnen/NeuromatchTeachingDemo](https://github.com/kbonnen/NeuromatchTeachingDemo)
 
-You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook.  You can import the jupyter notebook directly from github to colab.  Go here: [https://colab.research.google.com/github/](https://colab.research.google.com/github/).
+You can run the jupyter notebook any way that you’d like, but we recommend using google colab to run the notebook.  You can open the jupyter notebook manually through [colab](https://colab.research.google.com/github/), or hit this badge to load directly: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kbonnen/NeuromatchTeachingDemo/blob/master/ridge-regression-tutorial.ipynb)  
 
 On the screen that pops up, paste in the teaching demo git repository url: https://github.com/kbonnen/NeuromatchTeachingDemo
 
