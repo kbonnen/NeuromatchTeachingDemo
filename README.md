@@ -1,8 +1,8 @@
 # NeuromatchTeachingDemo Instructions
  
-As part of your application, we would like you to make a **4 minute video** that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others.  We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can see a sample teaching demo for a another topic [here](https://drive.google.com/file/d/1BsO8Itwfs1J1l7vHcOtjaljrX9hUjqIj/view).
+As part of your application, we would like you to make a **4 minute video** that showcases your teaching. We don’t want you to spend too long making this video, certainly no longer than 1 hour. You are not competing against others.  We want as many qualified TAs as possible. Instead you are demonstrating to us that you are ready to teach! You can see a sample teaching demo for part of this tutorial [here](https://drive.google.com/file/d/1RJqaPmik0QLt_nrdDNIiTjpbwuqTC8Jr/view?usp=sharing) and for a basic computer science topic [here](https://drive.google.com/file/d/1BsO8Itwfs1J1l7vHcOtjaljrX9hUjqIj/view).
  
-During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. Of course, in the Teaching Demo recording there will be no live students.  But we’d like you to teach as if there were a live audience (though you do not need to interact with this fake audience). 
+During the Neuromatch Academy summer course you will be leading hands-on tutorials live with a small group of students. At the end of each tutorial period you'll bring your whole group of students back for a short discussion, to review the answers to the tutorial and discuss further.  Of course, in this teaching demo we're asking for there will be no live students.  But we’d like you to review the an exercise in this tutorial (a,b,c, or d) as if there were a live audience (though you do not need to interact with this fake audience).  
 
 In the remainder of this handout, we will provide a lesson plan / tutorial for ridge-regression, as well as detailed instructions about what we would like you to submit. 
 
@@ -17,7 +17,7 @@ The learning objectives for this lesson are:
 * Apply regression with regularization to neural data
 * Compare regression analyses with and without regularization
 
-To be clear, we are not asking you to teach all of these concepts in 4 minutes.  It’s nowhere near enough time.  We have provided these to give you a sense of what knowledge acquisition you’re trying to support. Focus on one or two of these things as you walk your students through (part of) this example.  Please focus your teaching energy on the middle/end of the tutorial where the details of regression and regularization are the focus.  If that means you need to start your 4 minutes somewhere near the middle of the tutorial, go ahead.  We want you to demonstrate effective teaching, so don’t rush to try to fit everything in.
+To be clear, we are not asking you to teach all of these concepts or get through all of the exercises in 4 minutes.  It’s nowhere near enough time.  We have provided these to give you context and a sense of what knowledge acquisition you’re trying to support. Focus on explaining just one of the exercises in this tutorial (a,b,c,d). We want you to demonstrate effective teaching, so don’t rush to try to fit everything in.
 
 ## Tutorial Description
 
@@ -40,7 +40,7 @@ You can structure your four minute video any way you like. Here is a sample minu
 * ~3 mins: Work through part of the tutorial explaining the code and typing in solutions as you go.
  
 ## How we will evaluate your video 
-We are looking for people who know their content knowledge and who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.  
+We are looking for people who are able to communicate well. We’re looking for quality over quantity, so don’t feel pressured to rush through everything. Instead, make sure the content you do get to is clear and easy to follow.  
 
 ## Recording the video 
 Because we are planning using Zoom during the Neuromatch Academy summer course, we’d like you to record your lesson using Zoom (instructions below).  It should be a “single take” and you shouldn’t do any post-production work on the video.  Don’t fuss about production quality! We are more interested in who you are than on the quality of your audio :-).  
@@ -49,7 +49,7 @@ Because we are planning using Zoom during the Neuromatch Academy summer course, 
 In your round 2 TA application you will need to provide a link to your sample teaching video.  You can do this however you like.  Possible options include but are not limited to sending a link to a private Youtube video, providing a link to a Google Drive file, or providing a link to a dropbox file.  ***Pease make sure the sharing settings are set so that we will be able to access the video if we have the link.***
 
 ## Length of the video 
-As we mentioned we want the video to be 4 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done. Do not feel the need to overproduce your video! We are trying to scale here, we hope you understand :-) 
+As we mentioned we want the video to be 4 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done.  **Making mistakes is ok. Point them out and use them as teaching moments.** Do not feel the need to overproduce your video! We are trying to scale here, we hope you understand :-) 
 
 ## Zoom Instructions 
 * Open Zoom and press “New Meeting” (or “Host a Meeting”). 
