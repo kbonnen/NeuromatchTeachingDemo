@@ -49,7 +49,7 @@ Because we are planning using Zoom during the Neuromatch Academy summer course, 
 In your round 2 TA application you will need to provide a link to your sample teaching video.  You can do this however you like.  Possible options include but are not limited to sending a link to a private Youtube video, providing a link to a Google Drive file, or providing a link to a dropbox file.  ***Pease make sure the sharing settings are set so that we will be able to access the video if we have the link.***
 
 ## Length of the video 
-As we mentioned we want the video to be 4 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done.  **Making mistakes is ok. Point them out and use them as teaching moments.** Do not feel the need to overproduce your video! We are trying to scale here, we hope you understand :-) 
+As we mentioned we want the video to be 4 minutes long. You don’t have to conclude nicely -- feel free to cut the video at 4 minutes, even if you aren’t quite done.  **Making mistakes is ok! Point them out and use them as teaching moments.** Do not feel the need to overproduce your video! We are trying to scale here, we hope you understand :-) 
 
 ## Zoom Instructions 
 * Open Zoom and press “New Meeting” (or “Host a Meeting”). 
